@@ -52,9 +52,9 @@ WORK_EXPERIENCE = [
 PROFILE = {
     "name": "Rakesh Shaiva",
     "role": "Data Scientist & AI Engineer",
-    "location": "—",
-    "email": "",
-    "phone": "",
+    "location": "Heidelberg, Germany",
+    "email": "rakeshnagaragattajayanna@gmail.com",
+    "phone": "+4917677026053",
     "photo_url": None,
     "skills": [
     "Python", "PySpark", "SQL", "R", "Transformers", "Computer Vision", "NLP",
