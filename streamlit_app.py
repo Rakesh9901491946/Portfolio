@@ -50,7 +50,7 @@ WORK_EXPERIENCE = [
     }
 ]
 PROFILE = {
-    "name": "Rakesh Shaiva",
+    "name": "Rakesh Nagaragatta Jayanna",
     "role": "Data Scientist & AI Engineer",
     "location": "Heidelberg, Germany",
     "email": "rakeshnagaragattajayanna@gmail.com",
