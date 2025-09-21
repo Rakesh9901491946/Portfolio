@@ -75,18 +75,7 @@ PROFILE = {
 # DATA — EDIT YOUR CONTENT BELOW
 # --------------------------------
 PROJECTS = [
-    {
-        "title": "Radiology Report Generation from Chest X-rays (ViT + GPT-2)",
-        "summary": "End-to-end pipeline generating radiology reports from chest X-rays using a VisionEncoderDecoderModel.",
-        "tech": ["Python", "PyTorch", "Transformers", "ViT", "GPT-2", "Streamlit"],
-        "repo_url": "https://github.com/Rakesh9901491946/Vision-to-Text-Generation-for-Chest-X-rays-using-ViT-GPT2-A-Deep-Learning-Approach-for-Radiology-Re"
-    },
-    {
-        "title": "Twin-Solar: PV Production Forecasting",
-        "summary": "Forecasting photovoltaic (PV) output using weather-dependent and independent approaches with LSTM.",
-        "tech": ["Python", "LSTM", "Time Series", "ML"],
-        "repo_url": "https://github.com/Rakesh9901491946/Twin-Solar"
-    },
+
     {
         "title": "Azure End-to-End Data Engineering Project",
         "summary": "Complete Azure pipeline using Data Factory, Databricks, Synapse Analytics, and Power BI with Medallion Architecture.",
@@ -160,7 +149,13 @@ CASE_STUDIES = [
         "venue": "Case Study (2025)",
         "pdf_url": "https://drive.google.com/file/d/1Vw0_aZSvZAZRt1VBNNX-CqYl1ugRkW6j/view?usp=sharing",
         "summary": "End-to-end pipeline, dataset curation, metrics (BLEU/ROUGE/METEOR), and clinical evaluation."
-    }
+    },
+     {
+        "title": "Twin-Solar: PV Production Forecasting",
+        "summary": "Forecasting photovoltaic (PV) output using weather-dependent and independent approaches with LSTM.",
+        "tech": ["Python", "LSTM", "Time Series", "ML"],
+        "repo_url": "https://github.com/Rakesh9901491946/Twin-Solar"
+    },
 ]
 
 MASTER_THESIS = [
