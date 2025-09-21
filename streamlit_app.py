@@ -163,6 +163,7 @@ MASTER_THESIS = [
         "title": "Vision-Language Modeling for Chest X-ray Report Generation",
         "summary": "End-to-end pipeline generating radiology reports from chest X-rays using a VisionEncoderDecoderModel.",
         "tech": ["Python", "PyTorch", "Transformers", "ViT", "BioBart", "Streamlit"],
+        "pdf_url": "https://drive.google.com/file/d/1BwuAv493N_FdrAU6tXLzfegY6TBWOVn8/view?usp=sharing",
         "repo_url": "https://github.com/Rakesh9901491946/Vision-Language-Modeling-for-Chest-X-ray-Report-Generation"
     }
 ]
