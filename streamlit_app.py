@@ -160,9 +160,9 @@ CASE_STUDIES = [
 
 MASTER_THESIS = [
     {
-        "title": "Radiology Report Generation from Chest X-rays (ViT + GPT-2)",
+        "title": "Vision-Language Modeling for Chest X-ray Report Generation",
         "summary": "End-to-end pipeline generating radiology reports from chest X-rays using a VisionEncoderDecoderModel.",
-        "tech": ["Python", "PyTorch", "Transformers", "ViT", "GPT-2", "Streamlit"],
+        "tech": ["Python", "PyTorch", "Transformers", "ViT", "BioBart", "Streamlit"],
         "repo_url": "https://github.com/Rakesh9901491946/Vision-Language-Modeling-for-Chest-X-ray-Report-Generation"
     }
 ]
