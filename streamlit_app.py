@@ -226,6 +226,7 @@ def _render_streamlit():
             tech = ", ".join(thesis.get("tech", []))
             if tech:
                 st.caption(f"Tech: {tech}")
+            if pub.get("pdf_url"): st.markdown(f"[Open PDF ↗]({pub['pdf_url']})")
             if thesis.get("repo_url"):
                 st.markdown(f"[Repository ↗]({thesis['repo_url']})")
             st.markdown("---")
