@@ -225,10 +225,11 @@ def _render_streamlit():
             st.write(thesis['summary'])
             tech = ", ".join(thesis.get("tech", []))
             if tech:
-                st.caption(f"Tech: {tech}")
-            if thesis.get("pdf_url"): st.markdown(f"[Open PDF ↗]({pub['pdf_url']})")
+            st.caption(f"Tech: {tech}")
+            if thesis.get("pdf_url"):
+                st.markdown(f"[Open PDF ↗]({thesis['pdf_url']})")
             if thesis.get("repo_url"):
-                st.markdown(f"[Repository ↗]({thesis['repo_url']})")
+            st.markdown(f"[Repository ↗]({thesis['repo_url']})")
             st.markdown("---")
 
     with case_tab:
