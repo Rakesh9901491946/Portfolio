@@ -127,7 +127,7 @@ PROJECTS = [
         "title": "SmartRecruit: AI-Powered Recruitment Automation Tool",
         "summary": "Python + Flask app to automate candidate evaluation using scraping, clustering, and OpenAI feedback generation.",
         "tech": ["Flask", "Web App", "OpenAI API", "Clustering"],
-        "repo_url": ""
+        "repo_url": "https://github.com/Rakesh9901491946/Projects/tree/main/hushhush_project"
     }
 ]
 
@@ -168,7 +168,7 @@ MASTER_THESIS = [
         "title": "Radiology Report Generation from Chest X-rays (ViT + GPT-2)",
         "summary": "End-to-end pipeline generating radiology reports from chest X-rays using a VisionEncoderDecoderModel.",
         "tech": ["Python", "PyTorch", "Transformers", "ViT", "GPT-2", "Streamlit"],
-        "repo_url": "https://github.com/Rakesh9901491946/Vision-to-Text-Generation-for-Chest-X-rays-using-ViT-GPT2-A-Deep-Learning-Approach-for-Radiology-Re"
+        "repo_url": "https://github.com/Rakesh9901491946/Vision-Language-Modeling-for-Chest-X-ray-Report-Generation"
     }
 ]
 
